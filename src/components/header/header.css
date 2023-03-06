@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    
+    height: 200px;
+    font-size: 50px;
+    background: linear-gradient(to right, rgb(103, 67, 67), rgb(75, 123, 75), rgb(44, 44, 75), rgb(77, 40, 104), rgb(114, 93, 114));
+    
+}
+.log{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 90px;
+    color: rgb(237, 248, 248);
+    margin-left: 300px;
+    margin-top: 50px;
+}
